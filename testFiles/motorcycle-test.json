@@ -1,0 +1,172 @@
+[
+    {
+        "question" : "What are the requirements for wearing a helmet?",
+        "answers" : [
+            {
+                "value" : "Passengers only are required to wear helmets.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "All motorcycle riders and passengers are required to wear helmets at all times.",
+                "isCorrect" : "true"
+            },
+            {
+                "value" : "Helmets are not required while driving on city streets.",
+                "isCorrect" : "false"
+            }
+        ]
+    },
+    {
+        "question" : "Grabbing the front brake or jamming down on the rear brake:",
+        "answers" : [
+            {
+                "value" : "Can cause the brakes to lock. ",
+                "isCorrect" : "true"
+            },
+            {
+                "value" : "Is the best way to stop in an emergency.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "Is the best way to slow down when the streets are wet.",
+                "isCorrect" : "false"
+            }
+        ]
+    },
+    {
+        "question" : "Passengers on motorcycles should:",
+        "answers" : [
+            {
+                "value" : "Put their feet on the ground when the motorcycle is stopped. ",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "Not ride without a back rest.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "Should sit as far forward as possible without crowding you.",
+                "isCorrect" : "true"
+            }
+        ]
+    },
+    {
+        "question" : "When riding with a group of motorcyclists, a staggered formation:",
+        "answers" : [
+            {
+                "value" : "Is recommended at all times.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "Should not be used when entering or exiting a highway.",
+                "isCorrect" : "true"
+            },
+            {
+                "value" : "Should be used when riding on curves.",
+                "isCorrect" : "false"
+            }
+        ]
+    },
+    {
+        "question" : "Eye protection:",
+        "answers" : [
+            {
+                "value" : "Is not needed if your motorcycle is equipped with a windshield.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "Is only needed when riding in bad weather.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "Should give a clear view to either side.",
+                "isCorrect" : "true"
+            }
+        ]
+    },
+    {
+        "question" : "A primary cause of single vehicle motorcycle collisions is:",
+        "answers" : [
+            {
+                "value" : "Motorcyclists' tendency to drive too fast for weather conditions.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "Motorcyclists running wide in a curve or turn and colliding with the roadway or a fixed object.",
+                "isCorrect" : "true"
+            },
+            {
+                "value" : "Motorcyclists running off the road while trying to avoid a collision with another vehicle.",
+                "isCorrect" : "false"
+            }
+        ]
+    },
+    {
+        "question" : "The best lane position for a motorcycle:",
+        "answers" : [
+            {
+                "value" : "Is in the left part of the lane, next to the center line.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "Is in the right part of the lane, next to the curb.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "Can vary depending on road and/or traffic conditions.",
+                "isCorrect" : "true"
+            }
+        ]
+    },
+    {
+        "question" : "When riding at night you should:",
+        "answers" : [
+            {
+                "value" : "Move closer to the vehicle in front of you to use its lights to see farther down the road.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "Keep driving at your normal speed because slowing down would increase the chance of being struck from behind.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "Reduce your speed because it is harder to see something lying in the road.",
+                "isCorrect" : "true"
+            }
+        ]
+    },
+    {
+        "question" : "You should operate the engine cut-off switch and pull in the clutch when:",
+        "answers" : [
+            {
+                "value" : "The throttle is stuck and you can't free it. ",
+                "isCorrect" : "true"
+            },
+            {
+                "value" : "You start to lose control in a curve.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "The motorcycle starts to wobble.",
+                "isCorrect" : "false"
+            }
+        ]
+    },
+    {
+        "question" : "To operate a moped you must have at least a _______ license.",
+        "answers" : [
+            {
+                "value" : "Class M1",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "Class M2",
+                "isCorrect" : "true"
+            },
+            {
+                "value" : "Class C",
+                "isCorrect" : "false"
+            }
+        ]
+    }
+]

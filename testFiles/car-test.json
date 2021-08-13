@@ -1,0 +1,172 @@
+[
+    {
+        "question" : "You may drive off of the paved roadway to pass another vehicle:",
+        "answers" : [
+            {
+                "value" : "If the shoulder is wide enough to accommodate your vehicle.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "If the vehicle ahead of you is turning left.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "Under no circumstances.",
+                "isCorrect" : "true"
+            }
+        ]
+    },
+    {
+        "question" : "You are approaching a railroad crossing with no warning devices and are unable to see 400 feet down the tracks in one direction. The speed limit is:",
+        "answers" : [
+            {
+                "value" : "15 mph. ",
+                "isCorrect" : "true"
+            },
+            {
+                "value" : "20 mph.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "25 mph. ",
+                "isCorrect" : "false"
+            }
+        ]
+    },
+    {
+        "question" : "When parking your vehicle parallel to the curb on a level street:",
+        "answers" : [
+            {
+                "value" : "Your front wheels must be turned toward the street.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "Your wheels must be within 18 inches of the curb.",
+                "isCorrect" : "true"
+            },
+            {
+                "value" : "One of your rear wheels must touch the curb.",
+                "isCorrect" : "false"
+            }
+        ]
+    },
+    {
+        "question" : "When you are merging onto the freeway, you should be driving:",
+        "answers" : [
+            {
+                "value" : "At or near the same speed as the traffic on the freeway.",
+                "isCorrect" : "true"
+            },
+            {
+                "value" : "5 to 10 MPH slower than the traffic on the freeway.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "The posted speed limit for traffic on the freeway.",
+                "isCorrect" : "false"
+            }
+        ]
+    },
+    {
+        "question" : "When driving in fog, you should use your:",
+        "answers" : [
+            {
+                "value" : "Fog lights only.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "High beams.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "Low beams.",
+                "isCorrect" : "true"
+            }
+        ]
+    },
+    {
+        "question" : "A white painted curb means:",
+        "answers" : [
+            {
+                "value" : "Loading zone for freight or passengers.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "Loading zone for passengers or mail only.",
+                "isCorrect" : "true"
+            },
+            {
+                "value" : "Loading zone for freight only. ",
+                "isCorrect" : "false"
+            }
+        ]
+    },
+    {
+        "question" : "A school bus ahead of you in your lane is stopped with red lights flashing. You should:",
+        "answers" : [
+            {
+                "value" : "Stop, then proceed when you think all of the children have exited the bus.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "Slow to 25 MPH and pass cautiously.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "Stop as long as the red lights are flashing.",
+                "isCorrect" : "true"
+            }
+        ]
+    },
+    {
+        "question" : "California's 'Basic Speed Law' says:",
+        "answers" : [
+            {
+                "value" : "You should never drive faster than posted speed limits.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "You should never drive faster than is safe for current conditions.",
+                "isCorrect" : "true"
+            },
+            {
+                "value" : "The maximum speed limit in California is 70 mph on certain freeways. ",
+                "isCorrect" : "false"
+            }
+        ]
+    },
+    {
+        "question" : "You just sold your vehicle. You must notify the DMV within ___ days.",
+        "answers" : [
+            {
+                "value" : "5",
+                "isCorrect" : "true"
+            },
+            {
+                "value" : "10",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "15",
+                "isCorrect" : "false"
+            }
+        ]
+    },
+    {
+        "question" : "To avoid last minute moves, you should be looking down the road to where your vehicle will be in about ______________.",
+        "answers" : [
+            {
+                "value" : "5 to 10 seconds",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "10 to 15 seconds",
+                "isCorrect" : "true"
+            },
+            {
+                "value" : "15 to 20 seconds",
+                "isCorrect" : "false"
+            }
+        ]
+    }
+]

@@ -1,0 +1,172 @@
+[
+    {
+        "question" : "A pre-trip inspection should be completed:",
+        "answers" : [
+            {
+                "value" : "at least once a week.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "if any problems occurred the last the time the vehicle was operated.",
+                "isCorrect" : "true"
+            },
+            {
+                "value" : "before operating the vehicle.",
+                "isCorrect" : "false"
+            }
+        ]
+    },
+    {
+        "question" : "What should you do when you are driving at night?",
+        "answers" : [
+            {
+                "value" : "Make sure you are driving slow enough so you can stop within the range of your headlights in an emergency. ",
+                "isCorrect" : "true"
+            },
+            {
+                "value" : "Roll down your window so that the fresh air will help keep you awake.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "If you are sleepy, drink coffee or other caffeine products.",
+                "isCorrect" : "false"
+            }
+        ]
+    },
+    {
+        "question" : "Which of the following is the correct term for a long commercial vehicle's tendency to swing wide on turns?",
+        "answers" : [
+            {
+                "value" : "Sidetracking.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "Offtracking.",
+                "isCorrect" : "true"
+            },
+            {
+                "value" : "Fishtailing.",
+                "isCorrect" : "false"
+            }
+        ]
+    },
+    {
+        "question" : "When a coolant container is part of a pressurized system, you can:",
+        "answers" : [
+            {
+                "value" : "check the coolant level of a hot engine. ",
+                "isCorrect" : "true"
+            },
+            {
+                "value" : "safely remove the radiator cap and add coolant while the engine is hot.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "use water only in the cooling system.",
+                "isCorrect" : "false"
+            }
+        ]
+    },
+    {
+        "question" : "When you are parked at the side of the road at night, you must:",
+        "answers" : [
+            {
+                "value" : "warn others by turning on your 4-way emergency flashers. ",
+                "isCorrect" : "true"
+            },
+            {
+                "value" : "put your warning devices out within 15 minutes.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "use your left turn signal lights to give warning to other drivers.",
+                "isCorrect" : "false"
+            }
+        ]
+    },
+    {
+        "question" : "While doing the pre-trip inspection on your vehicle's steering and exhaust system you found the following problems. Which one, if any, should be fixed before you drive the vehicle?",
+        "answers" : [
+            {
+                "value" : "Too many vertical stacks.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "Oil on the tie rod.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "Play in the steering wheel of more than 10 degrees (2 inches on a 20-inch steering wheel).",
+                "isCorrect" : "true"
+            }
+        ]
+    },
+    {
+        "question" : "Containerized loads",
+        "answers" : [
+            {
+                "value" : "are exempt from hazardous materials restrictions. ",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "are exempt from weight limit restrictions.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "generally are used when freight is carried part way by rail or ship.",
+                "isCorrect" : "true"
+            }
+        ]
+    },
+    {
+        "question" : "You are exiting a highway using an offramp that curves downhill and you are driving a heavy vehicle. You should:",
+        "answers" : [
+            {
+                "value" : "do nothing because the posted speed limit for the offramp is usually 10 miles per hour below the safe speed limit for the offramp. ",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "slow to a safe speed before the curve.",
+                "isCorrect" : "true"
+            },
+            {
+                "value" : "downshift after you are in the curve.",
+                "isCorrect" : "false"
+            }
+        ]
+    },
+    {
+        "question" : "Water can safely be used on which of these fires?",
+        "answers" : [
+            {
+                "value" : "Electrical.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "Gasoline.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "Neither of the above.",
+                "isCorrect" : "true"
+            }
+        ]
+    },
+    {
+        "question" : "Three things add up to the total stopping distance for your vehicle. They are:",
+        "answers" : [
+            {
+                "value" : "perception distance, reaction distance, braking distance.",
+                "isCorrect" : "true"
+            },
+            {
+                "value" : "observation distance, reaction distance, slowing distance.",
+                "isCorrect" : "false"
+            },
+            {
+                "value" : "perception distance, response distance, reaction distance.",
+                "isCorrect" : "false"
+            }
+        ]
+    }
+]
